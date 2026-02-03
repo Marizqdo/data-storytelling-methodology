@@ -71,3 +71,22 @@ Todo análisis debe presentarse con una estructura narrativa lineal para facilit
 
 > **Conclusión del Playbook:**
 > Los datos por sí solos no tienen valor. El valor reside en nuestra capacidad para contextualizarlos. Como analistas, nuestra responsabilidad no termina al exportar el CSV; termina cuando la audiencia ha entendido la historia y tomado una decisión.
+>
+> **[Ver diapositivas de la presentación (PDF)](./Storytelling_Píldora.pdf)**
+>
+> ## 📚 Fuentes y Referencias
+
+Este proyecto se ha construido analizando casos reales y documentación técnica. Aquí están las fuentes originales para profundizar:
+
+### 🗞️ El Caso The New York Times
+*   **La fuente del dato:** El propio NYT liberó los datos que construyó manualmemte en este repositorio: [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data).
+*   **La Portada Histórica:** El interactivo de los 1.000 nombres: *"An Incalculable Loss"* (Mayo 2020) - [Ver archivo digital](https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html).
+*   **La Curva:** El artículo que popularizó la metáfora visual: *"Flattening the Coronavirus Curve"* - [Leer artículo](https://www.nytimes.com/article/flatten-curve-coronavirus.html).
+
+### 📊 Estudios y Teoría
+*   **Gartner:** Investigaciones sobre "Data Literacy" y por qué los proyectos de Business Intelligence fallan por falta de narrativa.
+*   **Florence Nightingale:** Análisis de sus diagramas de área polar ("Rose Diagram") de 1858 que cambiaron la sanidad británica.
+*   **Cole Nussbaumer Knaflic:** Conceptos generales de su metodología *"Storytelling with Data"*.
+
+---
+> *Repositorio creado con fines educativos para la divulgación del Data Storytelling.*
